@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0488e44c-4343-4eb3-a885-dbb0b41d74f0" name="Default" comment="" />
+    <list default="true" id="0488e44c-4343-4eb3-a885-dbb0b41d74f0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/git.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +20,8 @@
       <file leaf-file-name="git.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/git.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="225">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -51,7 +54,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -102,12 +105,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561022353747</updated>
-      <workItem from="1561022355159" duration="359000" />
+      <workItem from="1561022355159" duration="1874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359000" />
+    <option name="totallyTimeSpent" value="1874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -141,8 +144,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/git.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="225">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
